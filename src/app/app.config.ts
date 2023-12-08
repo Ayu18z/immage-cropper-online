@@ -4,12 +4,12 @@ import { initializeApp, provideFirebaseApp } from '@angular/fire/app';
 import { getStorage, provideStorage } from '@angular/fire/storage';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyCQFqfgcwI6ynvVpXfLOAOYEHstCegL9CQ',
-  authDomain: 'image-cropper-control.firebaseapp.com',
-  projectId: 'image-cropper-control',
-  storageBucket: 'image-cropper-control.appspot.com',
-  messagingSenderId: '398885936902',
-  appId: '1:398885936902:web:f09e8854362657790e4887',
+  projectId: 'aydash',
+  appId: '1:115151755324:web:8d58ce8bcf33e560e7cb39',
+  storageBucket: 'aydash.appspot.com',
+  apiKey: 'AIzaSyCPNuPpgHvFv073PJcy5gwV07pQ3X5gNec',
+  authDomain: 'aydash-c0eee.firebaseapp.com',
+  messagingSenderId: '115151755324',
 };
 
 export const appConfig: ApplicationConfig = {
